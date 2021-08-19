@@ -1,5 +1,2 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+#idea文件夹
+.idea
