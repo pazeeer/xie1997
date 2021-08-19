@@ -1,4 +1,4 @@
-Linux运维比较常用的一些脚本,从博客整理了一下 [谢公子的blog](https://blog.csdn.net/qq_36119192/article/details/83039448)     
+Linux运维比较常用的一些脚本,From：[谢公子的blog](https://blog.csdn.net/qq_36119192/article/details/83039448)  
 
 一、根据PID过滤进程所有信息
 
